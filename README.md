@@ -1,3 +1,0 @@
-# PowerShell
-
-#Assorted powershell scripts
